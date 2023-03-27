@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Caroline Queiroz
 
 - 🔭 Já trabalhei como back-end e com testes. Minha área de interesse é front-end/fullstack
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Javascript
 - 😄 Pronomes: ela/dela
 
 <div>
